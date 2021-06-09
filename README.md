@@ -11,6 +11,6 @@ solar panels for supervised learning
 - original img
 ![image](img/DJI_20200721100547_0032_THRM.JPG)
 - abnormal solar panels bounding box
-![image]
+![image](img/853.jpg)
 - normal solar panels bounding box
 ![image]
