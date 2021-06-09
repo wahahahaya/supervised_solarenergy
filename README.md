@@ -12,8 +12,7 @@ solar panels for supervised learning
   - vertical flip
   - horizontal shift
   - vertical shift
-  - ## I don't use Brightness because data is only come from thermal imaging
-- using vgg19 with batch_normalize
+- training vgg19 with batch_normalize
 
 ## dataset
 - original img
