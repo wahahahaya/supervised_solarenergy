@@ -9,5 +9,8 @@ solar panels for supervised learning
 
 ## dataset
 - original img
+![image]
 - abnormal solar panels bounding box
+![image]
 - normal solar panels bounding box
+![image]
