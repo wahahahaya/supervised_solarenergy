@@ -13,4 +13,4 @@ solar panels for supervised learning
 - abnormal solar panels bounding box
 ![image](img/853.jpg)
 - normal solar panels bounding box
-![image]
+![image](img/955.jpg)
