@@ -72,10 +72,11 @@ def train():
             x = x.to(device)
             y = y.to(device)
             output = CNN(x)
+            optimizer.zero_grad()
             loss = loss_function(output, y)
             loss.backward()       #autograd
-            scheduler.step()      #update
-            scheduler.zero_grad()   #梯度累加有偏差會影響更新方向 每次都要clear
+            optimizer.step()      #update
+            scheduler.step()
             train_loss += loss.item()
         print("training : ", train_loss / len(val_training_loader))
         val(val_training_loader)
