@@ -1,5 +1,5 @@
 # supervised_solarenergy
-final homework: Renewable Energy Transportation Technology Based on Artificial Intelligence
+final project: Renewable Energy Transportation Technology Based on Artificial Intelligence
 
 
 ## Process
