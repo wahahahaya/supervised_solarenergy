@@ -1,9 +1,9 @@
 # supervised_solarenergy
-solar panels for supervised learning
+final homework: Renewable Energy Transportation Technology Based on Artificial Intelligence
 
 
 ## Process
-- creating bounding box for original image (https://gist.github.com/bigsnarfdude/d811e31ee17495f82f10db12651ae82d)
+- creating bounding box for original image (ref: https://gist.github.com/bigsnarfdude/d811e31ee17495f82f10db12651ae82d)
   - convert to gray scale
   - threshold: binary_inv + OTSU
   - limited bounding box's width and heigh
